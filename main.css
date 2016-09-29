@@ -1,0 +1,15 @@
+body {
+	background: url(Lakeview.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.jumbotron {
+	background:none;
+}
+
+#page-2	{
+background: #A8CD1B;
+}
+
