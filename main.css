@@ -23,9 +23,46 @@ color: 	#000000;
 	font-weight: bold;
 }
 
+	#home {
+
+	height: 100vh;
+	padding-top: 100px;
+
+	}
+
+	#about {
+		background: lightgreen;
+		padding-top:100px;
+	}
 
 
-.social-links {
-	list-style: none;
-	padding-left: 0;	
-}
+	#portfolio  {
+
+	background: lightgreen;
+		padding-top:100px;
+	}
+
+
+	#skills {
+
+		background: lightgreen;
+		padding-top:100px;
+
+	}
+
+
+	#contact {
+
+		background: lightgreen;
+		padding-top:160px;
+
+	}	
+
+	#row {
+
+		background: lightgreen;
+		padding-top: 100px;
+	}
+
+
+
